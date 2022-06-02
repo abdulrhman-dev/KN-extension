@@ -1,0 +1,34 @@
+#button-kn-impor {
+    -webkit-box-pack: center !important;
+    -webkit-box-align: center !important;
+    width: 70px;
+    font-size: 10px;
+    margin: auto;
+    justify-content: center !important;
+    height: 40px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    margin: 0px !important;
+    cursor: pointer !important;
+    align-items: center !important;
+    outline: none !important;
+    text-decoration: none !important;
+    box-sizing: border-box !important;
+    user-select: none !important;
+    background: #1865f2 !important;
+    color: #ffffff !important;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+}
+
+#button-kn-impor:hover {
+    box-shadow: 0 0 0 3px white;
+}
+
+._1wv6lz9 {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+}

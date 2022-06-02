@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Khan Academy - Notion",
+    "description": "An extension that scraps a khan academy unit and turns it into a notion todo.",
+    "version": "1.0",
+    "icons": {
+        "16": "./Icons/icon-active-16.png",
+        "48": "./Icons/icon-active-48.png",
+        "128": "./Icons/icon-active-128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.khanacademy.org/*"
+            ],
+            "js": [
+                "main.js"
+            ],
+            "css": [
+                "main.css"
+            ]
+        }
+    ]
+}
