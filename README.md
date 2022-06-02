@@ -4,7 +4,7 @@
 ![image description](./Icons//icon-active-128.png) 
 
 ## What is this?
-This extension injects a javascript file to the *Khan academy* website, and it adds a "Copy" button to every *Khan academy* unit when clicked, it adds to the clipboard a noition todo of the this unit's topics with the number of **videos** (🖥️), **articles** (📖) and **practice** (📝) for each topic.
+This extension that injects a javascript file to the *Khan academy* website, and it adds a "Copy" button to every *Khan academy* unit when clicked, it adds to the clipboard a noition todo of the unit's topics with the number of **videos** (🖥️), **articles** (📖) and **practice** (📝) for each topic.
 
 ## Showcase
 ### Step 1
