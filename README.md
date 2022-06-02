@@ -9,9 +9,9 @@ This extension injects a javascript file to the *Khan academy* website, and it a
 ## Showcase
 ### Step 1
 ![image description](https://cdn.discordapp.com/attachments/499522799396847616/981808295096508416/unknown.png)
-----
+
 ### Step 2
 ![image description](https://cdn.discordapp.com/attachments/499522799396847616/981808685468758026/unknown.png)
----
+
 ### Step 3
 ![image description](https://cdn.discordapp.com/attachments/499522799396847616/981808902175883294/unknown.png)
